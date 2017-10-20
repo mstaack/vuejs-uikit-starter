@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import UIkit from 'uikit'
 import Icons from 'uikit/dist/js/uikit-icons'
+import 'font-awesome/css/font-awesome.css'
 
 // loads the Icon plugin
 UIkit.use(Icons)
@@ -16,5 +17,5 @@ new Vue({
   el: '#app',
   router,
   template: '<App/>',
-  components: { App }
+  components: {App}
 })

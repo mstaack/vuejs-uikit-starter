@@ -54,6 +54,7 @@
 </script>
 
 <style lang="scss">
+
     // 1. Your custom variables and variable overwrites.
     $global-link-color: #DA7D02;
 
