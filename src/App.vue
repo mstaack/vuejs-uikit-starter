@@ -68,4 +68,11 @@
 
     // 4. Import UIkit.
     @import "~uikit/src/scss/uikit-theme.scss";
+
+    // Some font smoothing
+    html {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+    }
 </style>

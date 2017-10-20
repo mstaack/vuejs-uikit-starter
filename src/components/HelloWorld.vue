@@ -1,5 +1,22 @@
 <template>
     <div>
+        <!--HERO-->
+        <section class="uk-section uk-section-large uk-section-secondary">
+            <div class="uk-container uk-container-small uk-text-center">
+                <h1>Album example</h1>
+                <p class="uk-text-large">Mauris vulputate non augue eu tincidunt. Nunc nec suscipit nisi. Maecenas quis quam et ex cursus sodales vitae luctus sem. </p>
+                <div uk-margin>
+                    <div class="uk-button uk-button-primary">
+                        CALL TO ACTION
+                    </div>
+                    <div class="uk-button uk-button-default">
+                        CLICK HERE
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--/HERO-->
+
         <!-- INFO -->
         <section class="uk-section uk-section-default uk-box-shadow-small uk-section-xsmall">
             <div class="uk-container">
