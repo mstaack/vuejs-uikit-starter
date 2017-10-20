@@ -2,6 +2,8 @@
 
 > A Vue.js project starter with [UIkit 3](https://getuikit.com)
 
+![Preview](https://i.imgur.com/8zhwluM.png)
+
 ## Build Setup
 
 ``` bash
