@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "uikit": "^3.0.0-beta.31",
+    "uikit": "^3.0.0-beta.33",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
