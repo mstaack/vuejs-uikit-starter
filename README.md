@@ -7,7 +7,10 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# clone repository
+git clone git@github.com:mstaack/vuejs-uikit-starter.git
+
+# install dependencies inside of the cloned repository
 npm install
 
 # serve with hot reload at localhost:8080
